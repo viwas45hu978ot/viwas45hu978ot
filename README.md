@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viwas45hu978ot&theme=dark)]
+[![GITHUB](https://github-readme-stats.vercel.app/api?username=viwas45hu978ot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
